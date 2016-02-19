@@ -1,5 +1,16 @@
 [
   { "keys": ["control+shift+w"], "command": "close_all" },
   { "keys": ["ctrl+shift+v"], "command": "paste" },
-  { "keys": ["ctrl+v"], "command": "paste_and_indent" }
+  { "keys": ["ctrl+v"], "command": "paste_and_indent" },
+
+  { "keys": ["alt+backspace"],
+    "command": "run_macro_file",
+    "args": {"file": "Packages/User/backspace_subword.sublime-macro"}
+  },
+
+  { "keys": ["alt+delete"],
+    "command": "run_macro_file",
+    "args": {"file": "Packages/User/delete_subword.sublime-macro"}
+  },
+
 ]
