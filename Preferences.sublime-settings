@@ -2,7 +2,7 @@
 	"auto_complete_selector": "source, comment, text.plain, meta.tag, punctuation.definition.tag.begin, css, html.handlebars, handlebars, hbs",
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"detect_indentation": false,
-	"font_size": 11,
+	"font_size": 12,
 	"ignored_packages":
 	[
 		"Vintage"
