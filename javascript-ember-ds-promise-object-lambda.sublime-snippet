@@ -1,13 +1,13 @@
 <snippet>
   <content><![CDATA[
 return DS.PromiseObject.create({
-  promise: $1 .then(($2) => {
-    $3
-  }),
+  promise: $1 .then(
+    ($2) => $3
+  ),
 });
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>rdspo</tabTrigger>
+  <tabTrigger>rdspol</tabTrigger>
   <!-- Optional: Set a scope to limit where the snippet will trigger -->
   <!-- <scope>source.javascript</scope> -->
 </snippet>
