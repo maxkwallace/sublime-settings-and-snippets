@@ -1,18 +1,26 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"added_words":
+	[
+		"Obama"
+	],
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
 	"detect_indentation": false,
-	"font_size": 12,
+	"draw_centered": true,
+	"font_size": 14,
+	"gutter": false,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"line_numbers": false,
 	"rulers":
 	[
-		100
 	],
 	"scroll_speed": 0,
 	"spelling_selector": "source comment - source comment.block.preprocessor, -(source, constant, keyword, storage, support, variable, markup.underline.link, meta.tag)",
 	"tab_size": 2,
+	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"wrap_width": 87
 }
