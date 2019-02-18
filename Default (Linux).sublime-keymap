@@ -1,7 +1,7 @@
 [
   { "keys": ["control+shift+w"], "command": "close_all" },
-  { "keys": ["ctrl+shift+v"], "command": "paste" },
-  { "keys": ["ctrl+v"], "command": "paste_and_indent" },
+  { "keys": ["control+shift+v"], "command": "paste" },
+  { "keys": ["control+v"], "command": "paste_and_indent" },
 
   { "keys": ["alt+backspace"],
     "command": "run_macro_file",
@@ -12,5 +12,56 @@
     "command": "run_macro_file",
     "args": {"file": "Packages/User/delete_subword.sublime-macro"}
   },
+
+
+  {
+    "keys": [
+      "alt+up"
+    ],
+    "command": "move",
+    "args": {
+      "by": "stops",
+      "empty_line": true,
+      "forward": false
+    }
+  },
+
+  {
+    "keys": [
+      "alt+down"
+    ],
+    "command": "move",
+    "args": {
+      "by": "stops",
+      "empty_line": true,
+      "forward": true
+    }
+  },
+
+  {
+    "keys": [
+      "control+alt+up"
+    ],
+    "command": "move",
+    "args": {
+      "by": "stops",
+      "empty_line": true,
+      "forward": false,
+      "extend": true
+    }
+  },
+
+  {
+    "keys": [
+      "control+alt+down"
+    ],
+    "command": "move",
+    "args": {
+      "by": "stops",
+      "empty_line": true,
+      "forward": true,
+      "extend": true
+    }
+  }
 
 ]

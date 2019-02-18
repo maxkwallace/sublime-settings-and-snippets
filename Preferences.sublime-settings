@@ -6,7 +6,7 @@
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
 	"detect_indentation": false,
 	"draw_centered": true,
-	"font_size": 14,
+	"font_size": 17,
 	"gutter": false,
 	"ignored_packages":
 	[
@@ -15,6 +15,7 @@
 	"line_numbers": false,
 	"rulers":
 	[
+		93
 	],
 	"scroll_speed": 0,
 	"spelling_selector": "source comment - source comment.block.preprocessor, -(source, constant, keyword, storage, support, variable, markup.underline.link, meta.tag)",
@@ -22,5 +23,5 @@
 	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"wrap_width": 87
+	"wrap_width": 60
 }
