@@ -15,9 +15,7 @@
 
 
   {
-    "keys": [
-      "alt+up"
-    ],
+    "keys": ["alt+up"],
     "command": "move",
     "args": {
       "by": "stops",
@@ -27,9 +25,7 @@
   },
 
   {
-    "keys": [
-      "alt+down"
-    ],
+    "keys": ["alt+down"],
     "command": "move",
     "args": {
       "by": "stops",
@@ -39,9 +35,7 @@
   },
 
   {
-    "keys": [
-      "control+alt+up"
-    ],
+    "keys": ["alt+shift+up"],
     "command": "move",
     "args": {
       "by": "stops",
@@ -52,9 +46,7 @@
   },
 
   {
-    "keys": [
-      "control+alt+down"
-    ],
+    "keys": ["alt+shift+down"],
     "command": "move",
     "args": {
       "by": "stops",
@@ -62,6 +54,22 @@
       "forward": true,
       "extend": true
     }
-  }
+  },
+
+  {
+    "keys": ["alt+control+up"],
+    "command": "select_lines",
+    "args": { "forward": false }
+  },
+
+  {
+    "keys": ["alt+control+down"],
+    "command": "select_lines",
+    "args": { "forward": true }
+  },
+
+  { "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" },
+
+  { "keys": ["ctrl+super+p"], "command": "prompt_select_workspace" }
 
 ]

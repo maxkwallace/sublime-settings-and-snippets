@@ -6,13 +6,14 @@
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
 	"detect_indentation": false,
 	"draw_centered": true,
-	"font_size": 17,
-	"gutter": false,
+	"font_size": 16,
+	"gutter": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"line_numbers": false,
+	"mini_diff": "auto",
 	"rulers":
 	[
 		93
