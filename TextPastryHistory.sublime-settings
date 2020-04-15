@@ -78,15 +78,54 @@
 			},
 			"key": "33717230f155291ba10b5e0c09b8fed4",
 			"label": "7 1 2"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1 1 X"
+				},
+				"command": "text_pastry_step",
+				"text": "1 1 X"
+			},
+			"key": "0b04a3c0df064f2b3f822c001d365e71",
+			"label": "1 1 X"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1 1 2"
+				},
+				"command": "text_pastry_step",
+				"text": "1 1 2"
+			},
+			"key": "bed4ce69bb178ee0474acea7c3188868",
+			"label": "1 1 2"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1 1 1"
+				},
+				"command": "text_pastry_step",
+				"text": "1 1 1"
+			},
+			"key": "f4093d4303a6804a1cf378c28e59581a",
+			"label": "1 1 1"
 		}
 	],
 	"last_command":
 	{
 		"args":
 		{
-			"text": "7 1 2"
+			"text": "1 1 1"
 		},
 		"command": "text_pastry_step",
-		"text": "7 1 2"
+		"text": "1 1 1"
 	}
 }
