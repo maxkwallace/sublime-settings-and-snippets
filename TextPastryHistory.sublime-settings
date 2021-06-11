@@ -19,19 +19,6 @@
 			{
 				"args":
 				{
-					"text": "1 1 0"
-				},
-				"command": "text_pastry_step",
-				"text": "1 1 0"
-			},
-			"key": "df5947fb78700bdd567c5ebf0d912085",
-			"label": "1 1 0"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
 					"text": "0 1 1 "
 				},
 				"command": "text_pastry_step",
@@ -117,15 +104,41 @@
 			},
 			"key": "f4093d4303a6804a1cf378c28e59581a",
 			"label": "1 1 1"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "0 1 0"
+				},
+				"command": "text_pastry_step",
+				"text": "0 1 0"
+			},
+			"key": "682b4e1fd6c283c150d48c35f9b5cbe4",
+			"label": "0 1 0"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1 1 0"
+				},
+				"command": "text_pastry_step",
+				"text": "1 1 0"
+			},
+			"key": "df5947fb78700bdd567c5ebf0d912085",
+			"label": "1 1 0"
 		}
 	],
 	"last_command":
 	{
 		"args":
 		{
-			"text": "1 1 1"
+			"text": "1 1 0"
 		},
 		"command": "text_pastry_step",
-		"text": "1 1 1"
+		"text": "1 1 0"
 	}
 }
