@@ -6,11 +6,11 @@
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
 	"detect_indentation": false,
 	"draw_centered": true,
-	"font_size": 17,
+	"font_size": 16,
 	"gutter": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
 	],
 	"line_numbers": false,
 	"mini_diff": "auto",
@@ -23,5 +23,5 @@
 	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"wrap_width": 80
+	"wrap_width": 62,
 }

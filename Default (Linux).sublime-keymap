@@ -68,8 +68,8 @@
     "args": { "forward": true }
   },
 
-  { "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" },
+  { "keys": ["ctrl+super+p"], "command": "prompt_select_workspace" },
 
-  { "keys": ["ctrl+super+p"], "command": "prompt_select_workspace" }
+  {"keys": ["f10"], "command": "toggle_menu"}
 
 ]
