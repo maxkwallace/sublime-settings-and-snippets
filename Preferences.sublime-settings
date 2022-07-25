@@ -1,34 +1,28 @@
 {
-  "update_check": false,
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
-	"theme": "Default.sublime-theme",
-
-	"spelling_selector": "source comment - source comment.block.preprocessor, -(source, constant, keyword, storage, support, variable, markup.underline.link, meta.tag)",
 	"added_words":
 	[
 		"Obama"
 	],
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"detect_indentation": false,
+	"draw_centered": true,
+	"font_size": 15,
+	"gutter": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-
-	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-
-	"detect_indentation": false,
-	"draw_centered": true,
-	"gutter": true,
-
 	"line_numbers": false,
 	"mini_diff": "auto",
-
-	"font_size": 16,
-	"scroll_speed": 0,
-	"tab_size": 2,
-	"wrap_width": 62,
-
 	"rulers":
 	[
-	]
+	],
+	"scroll_speed": 0,
+	"spelling_selector": "source comment - source comment.block.preprocessor, -(source, constant, keyword, storage, support, variable, markup.underline.link, meta.tag)",
+	"tab_size": 2,
+	"theme": "Default.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"update_check": false,
+	"wrap_width": 62
 }
